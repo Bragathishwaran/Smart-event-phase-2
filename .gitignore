@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.db
+.env
+app/static/qrcodes/*.png
